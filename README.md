@@ -1,8 +1,7 @@
 # basic_java_gradle_docker
-# springboot-demos
-Contains all the SpringBoot Demos
+Contains multiple java projects build via gradle into jars and docker container images which could be run us docker commands or thru sing gradle task 
 
 | Status        | Project           | Description  |
 | ------------- |:-------------:| -----:|
-| [![CircleCI](https://circleci.com/gh/amberved/springboot-demos.svg?style=svg)](https://circleci.com/gh/amberved/springboot-demos)     | DockererizedSpringBootDemoApplication | Docker SpringBoot Demo App |
+| [![CircleCI](https://circleci.com/gh/amberved/basic_java_gradle_docker/tree/master.svg?style=svg)](https://circleci.com/gh/amberved/basic_java_gradle_docker/tree/master) | Gradle + Multiple Java + Docker Demo |
 
